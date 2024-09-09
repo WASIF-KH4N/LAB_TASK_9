@@ -1,3 +1,5 @@
+;Program to draw two shapes.
+
 Dosseg
 .model small
 .stack 100h
