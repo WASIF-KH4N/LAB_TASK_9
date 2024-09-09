@@ -1,4 +1,4 @@
-;Program to draw two shapes.
+;Program to draw a pattern.
 
 Dosseg
 .model small
