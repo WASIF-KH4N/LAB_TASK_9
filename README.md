@@ -1,2 +1,2 @@
 # LAB_TASK_9
-ASSEMBLY LANGUAGE PROGRAMMING | BSCS-403 | UBIT.
+->Program to draw rectangle using graphics. ->Program to write name inside the shape. ->Program to draw two shapes. ->Program to draw a pattern.
