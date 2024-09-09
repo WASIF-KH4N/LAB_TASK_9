@@ -1,3 +1,5 @@
+;Program to write name inside the shape.
+
 Dosseg
 .model small
 .stack 100h
