@@ -1,3 +1,5 @@
+;Program to draw rectangle using graphics.
+
 Dosseg
 .model small
 .stack 100h
